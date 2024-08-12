@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "rpg.openapi.dev-url",
+  "type": "java.lang.String",
+  "description": "A description for 'rpg.openapi.dev-url'"
+}]}
